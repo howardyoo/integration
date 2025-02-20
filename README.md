@@ -1,2 +1,5 @@
-# integration
-Docs and howto's for Observability integration. If you want to see everything, have a single pane of glass, or whatever, you first need to do the plumbings. Integration is that.
+# ⛓️ Integration for Observability
+Docs and howto's for Observability integration. If you want to see everything, have a single pane of glass, or whatever, you first need to do the plumbings. Integration is that. This repository will serve to contain various integrations that can be done using what's available out in the market, focused on open source technologies. Vendor specific integrations are great, but they are not neutral, and can pose cost of change when you wish to switch to other products. In terms of integration, my belief is that it should be as much as vendor and technology neutral as possible, and supported by community effort.
+
+## How to browse
+This repo is organized into folders that contains various topics that you can navigate and read the main README.md to understand its content. Each folder also contains .md files that may describe certain types of integration of 1) collecting the data from a specific or generic source, and 2) sending them into a specific format to the end system.
